@@ -4,7 +4,7 @@ Projects for ECE course Computational Intelligence
 Build a Fuzzy PI Controller with the following specifications on MATLAB Simulink:
 Markup: * Rejection of disorders. For cyclic disturbance frequency less than 1 rad/sec there should be disturbance gain at most 20 dB. In addition, if there is a change in the TL, we want the ω to change temporarily and then return (with good approach) to the value it had before the disturbance.
 * Maximum 5% elevation for step input.
-* Zero position error (e<sub>ss</sub>)
+* Zero position error e<sub>ssp</sub>=0
 * Rise time maximum of $'160'$ msec
 * V<sub>a</sub> <= 200V for each t > 0.
 ## Project 2
