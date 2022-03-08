@@ -3,10 +3,10 @@ Projects for ECE course Computational Intelligence
 ## Project 1
 Build a Fuzzy PI Controller with the following specifications on MATLAB Simulink:
 Markup: * Rejection of disorders. For cyclic disturbance frequency less than 1 rad/sec there should be disturbance gain at most 20 dB. In addition, if there is a change in the TL, we want the ω to change temporarily and then return (with good approach) to the value it had before the disturbance.
-* Maximum ```5%``` elevation for step input.
-* Zero position error ```e<sub>ss</sub>```
-* Rise time maximum of ```160 msec```.
-* ```V<sub>a</sub> &le 200V``` for each ```t &gt 0```.
+* Maximum 5% elevation for step input.
+* Zero position error e<sub>ss</sub
+* Rise time maximum of 160 msec
+* V<sub>a</sub> &le 200V for each t &gt 0.
 ## Project 2
 Solve a regression problem using TSK models. Fuzzy Neural Networks on MATLAB with datasets from UCI repository and feature selection with cross validation technichs were used.
 
