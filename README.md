@@ -14,4 +14,4 @@ Solve a regression problem using TSK models. Fuzzy Neural Networks on MATLAB wit
 Solve a classification problem using Mulit-Layer Perceptron Network. Tensorflow and keras on Python with MNIST dataset (handwritten digit images of 28x28 pixels each) was used, the goal was to correctly rank each image in the class corresponding to the digit it represents. (Jupyter Notebook also used)
 
 ## Project 4
-Solve o regression problem using RBF Network. Tensorflow and keras on Python with Boston housing dataset was used, the goal was predicting the price value of each real estate on Boston area. (Jupyter Notebook also used)
+Solve a regression problem using RBF Network. Tensorflow and keras on Python with Boston housing dataset was used, the goal was predicting the price value of each real estate on Boston area. (Jupyter Notebook also used)
